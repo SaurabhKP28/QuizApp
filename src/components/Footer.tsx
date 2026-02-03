@@ -3,7 +3,7 @@ const Footer = () => (
     <p>
       &copy; 2026{' '}
       <a
-        href="https://github.com/SaurabhKP28"
+        href="https://github.com/SaurabhKP28/QuizApp.git"
         target="_blank"
         rel="noopener noreferrer"
         className="text-blue-400 hover:underline"
