@@ -1,0 +1,228 @@
+{
+  "subjects": [
+    {
+      "name": "Coding",
+      "image": "/images/Coding.png",
+      "questions": [
+        {
+          "question": "What does HTML stand for?",
+          "options": [
+            "Hypertext Markup Language",
+            "Hightext Machine Language",
+            "Hyperlink and Text Markup Language",
+            "Hypertext Markup Link"
+          ],
+          "answer": "Hypertext Markup Language"
+        },
+        {
+          "question": "Which language is primarily used for web development?",
+          "options": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "C++"
+          ],
+          "answer": "JavaScript"
+        },
+        {
+          "question": "What is the purpose of CSS?",
+          "options": [
+            "Structure the content",
+            "Style the content",
+            "Program the logic",
+            "Create databases"
+          ],
+          "answer": "Style the content"
+        },
+        {
+          "question": "Which of the following is a backend programming language?",
+          "options": [
+            "JavaScript",
+            "HTML",
+            "PHP",
+            "CSS"
+          ],
+          "answer": "PHP"
+        },
+        {
+          "question": "What is a variable?",
+          "options": [
+            "A constant value",
+            "A storage location in memory",
+            "A function",
+            "A data type"
+          ],
+          "answer": "A storage location in memory"
+        }
+      ]
+    },
+    {
+      "name": "Math",
+      "image": "/images/quiz.png",
+      "questions": [
+        {
+          "question": "What is the square root of 49?",
+          "options": [
+            "7",
+            "12",
+            "49",
+            "6"
+          ],
+          "answer": "7"
+        },
+        {
+          "question": "What is 2 + 2?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "What is the square root of 16?",
+          "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+          ],
+          "answer": "4"
+        },
+        {
+          "question": "What is 7 x 6?",
+          "options": [
+            "42",
+            "36",
+            "48",
+            "56"
+          ],
+          "answer": "42"
+        },
+        {
+          "question": "What is 15 - 9?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "5"
+          ],
+          "answer": "6"
+        }
+      ]
+    },
+    {
+      "name": "QuantumComputing",
+      "image": "/images/Quantum.png",
+      "questions": [
+        {
+          "question": "What is the basic unit of information in quantum computing?",
+          "options": [
+            "Bit",
+            "Qubit",
+            "Byte",
+            "Register"
+          ],
+          "answer": "Qubit"
+        },
+        {
+          "question": "Which principle allows a qubit to exist in multiple states at the same time?",
+          "options": [
+            "Entanglement",
+            "Superposition",
+            "Interference",
+            "Decoherence"
+          ],
+          "answer": "Superposition"
+        },
+        {
+          "question": "What phenomenon links the states of two or more qubits regardless of distance?",
+          "options": [
+            "Superposition",
+            "Tunneling",
+            "Entanglement",
+            "Interference"
+          ],
+          "answer": "Entanglement"
+        },
+        {
+          "question": "Which gate is the quantum equivalent of a classical NOT gate?",
+          "options": [
+            "Hadamard Gate",
+            "Pauli-X Gate",
+            "CNOT Gate",
+            "Phase Gate"
+          ],
+          "answer": "Pauli-X Gate"
+        },
+        {
+          "question": "What does a Hadamard gate primarily do to a qubit?",
+          "options": [
+            "Measures the qubit",
+            "Creates superposition",
+            "Entangles qubits",
+            "Resets the qubit"
+          ],
+          "answer": "Creates superposition"
+        }
+      ]
+    },
+    {
+      "name": "MachineLearning",
+      "image": "/images/ML.png",
+      "questions": [
+        {
+          "question": "What is Machine Learning?",
+          "options": [
+            "A type of computer hardware",
+            "A subset of artificial intelligence that enables systems to learn from data",
+            "A programming language",
+            "A database management system"
+          ],
+          "answer": "A subset of artificial intelligence that enables systems to learn from data"
+        },
+        {
+          "question": "Which type of learning uses labeled data?",
+          "options": [
+            "Unsupervised Learning",
+            "Reinforcement Learning",
+            "Supervised Learning",
+            "Semi-supervised Learning"
+          ],
+          "answer": "Supervised Learning"
+        },
+        {
+          "question": "Which algorithm is commonly used for classification problems?",
+          "options": [
+            "Linear Regression",
+            "K-Means Clustering",
+            "Decision Tree",
+            "Apriori Algorithm"
+          ],
+          "answer": "Decision Tree"
+        },
+        {
+          "question": "What is overfitting in machine learning?",
+          "options": [
+            "Model performs well on unseen data",
+            "Model learns noise instead of pattern",
+            "Model is too simple",
+            "Model has no bias"
+          ],
+          "answer": "Model learns noise instead of pattern"
+        },
+        {
+          "question": "Which algorithm is used for clustering?",
+          "options": [
+            "Logistic Regression",
+            "K-Means",
+            "Naive Bayes",
+            "Support Vector Machine"
+          ],
+          "answer": "K-Means"
+        }
+      ]
+    }
+  ]
+}
